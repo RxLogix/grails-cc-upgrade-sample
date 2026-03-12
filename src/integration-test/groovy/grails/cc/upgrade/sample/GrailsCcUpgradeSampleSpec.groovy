@@ -1,4 +1,5 @@
 package grails.cc.upgrade.sample
+
 import grails.gorm.transactions.Rollback
 import grails.testing.mixin.integration.Integration
 
